@@ -2,7 +2,7 @@
 Bank Interest Calculator
 R Program:
 simple_interest <- function(k, n, o){
-si <- (a * b * d) / 100
+si <- (k * n * o) / 100
 return(si)
 }
 simple_interest(1080, 70, 4)
