@@ -80,7 +80,7 @@ Employee Salary Analysis
 R program:
 # Dataset
 employees <- data.frame(
-EmpID = 226:231,
+EmpID = 101:102,
 Name =
 c("Rahul","Srihari","Kiran","Anitha","Ravi","Gayathri","Suresh","Lakshmi","Arjun","Meena"),
 Dept = c("IT","HR","Finance","IT","HR","Finance","IT","HR","Finance","IT"),
